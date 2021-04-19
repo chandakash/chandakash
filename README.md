@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandakash" alt="chandakash" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://akashchand1703-portfolio-react.herokuapp.com/](https://akashchand1703-portfolio-react.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://akashchand1703-portfolio.herokuapp.com/](https://akashchand1703-portfolio.herokuapp.com/)
 
 - 💬 Ask me about **C++, Java, MYSQL,ReactJS.**
 
