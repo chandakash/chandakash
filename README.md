@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://akashchand1703-portfolio.herokuapp.com/](https://akashchand1703-portfolio.herokuapp.com/)
 
-- 💬 Ask me about **C++, Java, MYSQL,ReactJS.**
+- 💬 Ask me about ** NodeJS, C++, Java, MYSQL, ReactJS.**
 
-- 📫 How to reach me **akashchand1703@gmail.com**
+- 📫 How to reach me **akashchand3071@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
